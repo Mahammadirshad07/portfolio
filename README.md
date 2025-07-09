@@ -7,6 +7,6 @@ This is a simple site consisting of all about me my projects, my achievements an
 + An Interactive and Responsive Site.<br>
 
 <h2>Deployed Link</h2>
-<h3>Link - <a href="https://karthik-s-portfolio.netlify.app/">[https://karthik-s-portfolio.netlify.app/]</a></h3>
+<h3>Link - <a href="https://mahammad-irshad.vercel.app/">[https://mahammad-irshad.vercel.app/]</a></h3>
 
 
